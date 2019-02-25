@@ -51,12 +51,12 @@
   <car>
     <make>Ford</make>
     <model>Fiesta</model>
-    <version>Ghia</version>
+    <version>1.2</version>
   </car>
     <car>
       <make>Ford</make>
       <model>Fiesta</model>
-      <version>Sport</version>
+      <version>1.6</version>
     </car>
     <car>
       <make>Ford</make>
